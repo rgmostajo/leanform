@@ -1,0 +1,15 @@
+html, body{
+
+	border-radius: 15px 50px 30px;
+    background-color: lightblue;
+  	width: 300px;
+ 	border: 25px solid blue;
+  	padding: 25px;
+ 	margin: 25px;
+ 	margin: 100px auto;
+   
+}
+
+.form{
+	text-align: center;
+}
